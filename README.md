@@ -1,1 +1,1 @@
-# week1-news-sentiment-stock
+# Week 1 Project: News Sentiment & Stock Analysis
