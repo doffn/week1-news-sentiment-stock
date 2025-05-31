@@ -1,6 +1,4 @@
-Given the setup you've shared, here's a revised and tailored `README.md` that fits your project structure and tools:
 
----
 
 # 🗞️ Week 1 Project: News Sentiment & Stock Analysis
 
